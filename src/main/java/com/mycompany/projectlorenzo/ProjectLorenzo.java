@@ -14,8 +14,8 @@ public class ProjectLorenzo {
         System.out.println("Hello World!");
     }
     
-    public double Multiply(double x, double y)
+    public double Division(double x, double y)
     {
-        return x * y;
+        return x / y;
     }
 }
